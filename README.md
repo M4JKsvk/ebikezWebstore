@@ -10,3 +10,6 @@ Content > Bootstrap 5.3
 
 Gallery > Bootstrap Component
 https://epicbootstrap.com/snippets/lightbox-gallery
+
+Carousel > Bootstrap 5.3
+Couldn't get the size right, commented
